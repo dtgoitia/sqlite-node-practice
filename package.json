@@ -1,0 +1,24 @@
+{
+  "name": "sqlite-node-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm install",
+    "x": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtgoitia/sqlite-node-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtgoitia/sqlite-node-practice/issues"
+  },
+  "homepage": "https://github.com/dtgoitia/sqlite-node-practice#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
