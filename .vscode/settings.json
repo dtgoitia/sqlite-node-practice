@@ -1,0 +1,10 @@
+{
+  "saveAndRun": {
+    "commands": [
+      {
+        "match": "app.js",
+        "cmd": "clear && node app.js"
+      }
+    ]
+  }
+}
